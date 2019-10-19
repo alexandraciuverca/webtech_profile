@@ -1,0 +1,22 @@
+{
+  "name": "paginameadeprofil",
+  "version": "1.0.0",
+  "description": "pagina de profil",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandraciuverca/webtech_profile.git"
+  },
+  "author": "alexandra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandraciuverca/webtech_profile/issues"
+  },
+  "homepage": "https://github.com/alexandraciuverca/webtech_profile#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
